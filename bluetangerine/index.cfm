@@ -1,0 +1,1 @@
+<cflocation url="/bluetangerine/properties.cfm">
